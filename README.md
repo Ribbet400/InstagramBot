@@ -1,2 +1,3 @@
 # InstagramBot
-My first Instagram bot using selenium and the Firefox webdriver
+My first Instagram bot using Selenium and the Firefox webdriver
+- Logs in
